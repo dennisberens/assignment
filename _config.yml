@@ -2,3 +2,4 @@ theme: jekyll-theme-cayman
 title: Python Assignment of Emy Meurs and Dennis Berens
 description: An analysis of housing prices in the Netherlands for the course Applied Economic Analysis 1
 ---
+include: Emy%2Band%2BDennis%2BAssignment_DBE.ipynb
